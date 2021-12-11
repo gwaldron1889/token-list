@@ -40536,6 +40536,18 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Ejn9bQYZioinAoPmKAvr7xm25QnnnbLBx8dhsL7kD47N",
+      "symbol": "WALD",
+      "name": "Waldo Coin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/gwaldron1889/crypto/main/logo.png",
+      "tags": [
+        "social-token"
+        
+      ]
     }
   ],
   "version": {
